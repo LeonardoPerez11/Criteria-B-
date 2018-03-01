@@ -1,0 +1,25 @@
+Project
+
+i. My solution to stop a lot of the copying would be to remove "inspect element" from internet browsers. We would know this works because there would be a higher variety of website designs and a lot less copying. This is a good way to stop copying because removing this attribute would make it so that People could not publicly access the code unless the publisher makes them public. This would also not harm the use of the browsers.
+
+ii.Solution A- Removing a way of publicly accessing the code without the permission of the author would stop pirates.
+
+Solution B- Creating a system that could find big similarities in code as in the way they are setup. This could include finding similarities in the number of lines of code that there is and the order in which the code is put in.
+
+iii.The solution that I am going to go with removing a way for code to be publicly accessed without the authors permission. This means removing the inspect element from the web browsers or find a way to ban people accessing the code. People could still post there codes in places such as github and what not. But this would make it so that if people did not want to make their code public once they made a website public, they could do that. In an assumption that people still find a way to access the code and copy it, it can be pursued legally and the judge could decide whether they would have to present both of the codes and evidence of the date the websites were published.
+
+iv. My drawing would show that the menu that comes up when you click the right mouse button, would no longer include inspect element.
+
+TWS
+
+1) I think that intellectual property is worth protecting because people have to put work into creating it and it would not be fair for people to just steal their ideas/work.
+
+2) If my solution is successful, it will be evident that there is a higher variety in the style of websites.
+
+3) The solution of mine that is best is removing inspect element.
+
+4) My solution would look like no inspect element in websites anymore. In order for my solution to work, Inspect element would have to be have to be removed. The second that inspect element is removed, there would be a decline of copying in websites.
+
+DOL
+
+1) I feel like this design will be successful because inspect element is a big way that people copy off of other people websites.
